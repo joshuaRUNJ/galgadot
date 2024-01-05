@@ -185,18 +185,18 @@ a.social:hover::before {
 }
 
 a.social.facebook::before {
-    background-color:white;
+    background-color:#3a5796;
 }
 
 a.social.twitter::before {
-    background-color: white;
+    background-color:#1c9ceb;
 }
 
 
 
 
 a.social.instagram::before {
-    background-color:white;
+    background-color:#d12c7a;
 }
 
 a.social svg {
