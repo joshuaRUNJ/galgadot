@@ -208,7 +208,7 @@ a.social svg {
 }
 
 a.social:hover svg {
-    transform: rotate(720deg);
+    transform: rotate(360deg);
 }
 
 a.social svg path {
